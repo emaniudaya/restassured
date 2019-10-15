@@ -1,0 +1,20 @@
+2019-10-11 15:39:20,088 [main] INFO rest_framework - **********   Get All Employees    **********
+2019-10-11 15:39:25,604 [main] INFO rest_framework - *******    Checking Content Length   *******
+2019-10-11 15:39:25,606 [main] INFO rest_framework - Content Length is  -->  2
+2019-10-11 15:39:25,606 [main] WARN rest_framework - Content Length is less than 100
+2019-10-11 15:39:25,616 [main] INFO rest_framework - *******    Checking Content Type   *******
+2019-10-11 15:39:25,617 [main] INFO rest_framework - Content Type is  -->  text/html; charset=UTF-8
+2019-10-11 15:39:25,619 [main] INFO rest_framework - *******    Checking Cookies   *******
+2019-10-11 15:39:25,621 [main] INFO rest_framework - *******    Checking Encoding   *******
+2019-10-11 15:39:25,624 [main] INFO rest_framework - Content Encoding is  -->  null
+2019-10-11 15:39:25,627 [main] INFO rest_framework - *******    Checking Response Body   *******
+2019-10-11 15:39:25,648 [main] INFO rest_framework - Response Body   -->  []
+2019-10-11 15:39:25,649 [main] INFO rest_framework - *******    Checking Response Time   *******
+2019-10-11 15:39:25,649 [main] INFO rest_framework - Response Time is  -->  1423
+2019-10-11 15:39:25,650 [main] INFO rest_framework - *******    Checking Server Type   *******
+2019-10-11 15:39:25,650 [main] INFO rest_framework - Server Type is  -->  Apache
+2019-10-11 15:39:25,651 [main] INFO rest_framework - *******    Checking Status Code   *******
+2019-10-11 15:39:25,652 [main] INFO rest_framework - Status Code is  -->  200
+2019-10-11 15:39:25,653 [main] INFO rest_framework - *******    Checking Status Line   *******
+2019-10-11 15:39:25,653 [main] INFO rest_framework - Status Line is  -->  HTTP/1.1 200 OK
+2019-10-11 15:39:25,656 [main] INFO rest_framework - *******    Completed_TC001_Get_All_Employees   *******
